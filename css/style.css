@@ -1788,6 +1788,18 @@ figure.dotted-bg:before {
   color: #fff;
 }
 
+.unslate_co--footer {
+  /* Remove or adjust z-index property */
+  z-index: 0;
+  /* Keep the rest of the styles unchanged */
+}
+
+.unslate_co--footer a {
+  /* Ensure anchor tag color is visible against the background */
+  color: rgba(255, 255, 255, 0.6);
+}
+
+
 .loader-portfolio-wrap {
   text-align: center;
   display: none;
