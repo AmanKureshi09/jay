@@ -2107,7 +2107,7 @@ span.error {
 
 @media (max-width: 767.98px) {
   .jay img{
-    margin-left: 0% !important;
+    margin: 0 !important;
   }
 }
 
